@@ -1,0 +1,1 @@
+print("Hello! \n Welcome to the Ockman Banking System.")
